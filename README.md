@@ -43,36 +43,6 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-## 📘 My top open source projects
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-## 📕 Top projects I've contributed to
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
-  <a href="https://github.com/Rapptz/discord.py"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="discord.py"></a>
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
-  <a href="https://github.com/nextcord/nextcord"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
-</p>
-
 <p align="left">
   <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
@@ -218,21 +188,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#342](https://github.com/DenverCoder1/jct-discord-bot/pull/342) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#426](https://github.com/DenverCoder1/custom-icon-badges/pull/426) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#425](https://github.com/DenverCoder1/custom-icon-badges/pull/425) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#42](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/42) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-5. 💪 Opened PR [#42](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection/pull/42) in [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-<!--END_SECTION:activity-->
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
