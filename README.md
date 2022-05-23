@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/dzvyagin/dzvyagin/master/assets/card.svg "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/dzvyagin/dzvyagin/master/assets/card.svg align="center" "Header")](https://martinheinz.dev/)
 
 <h3 align="center">
   Welcome to Danila Zvyagin's profile!
