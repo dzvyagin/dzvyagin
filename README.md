@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/dzvyagin/dzvyagin/master/assets/card.svg "Header width="100%"" width="100%")](https://zviagin.com/)
+<a href="https://zviagin.com"><img src="https://raw.githubusercontent.com/dzvyagin/dzvyagin/master/assets/card.svg" width="100%"></a>
 
 <h3 align="center">
   Welcome to Danila Zvyagin's profile!
