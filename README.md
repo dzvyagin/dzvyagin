@@ -14,14 +14,17 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- About me -->
 <details>
 <summary>✨ About me</summary>
+<br/>
 <p>
 I am a Full Stack Developer with 3+ years of experience in developing enterprise applications and interesting things.
 </p>
 <p>
 Initially I started to study mobile development (android), but I didn't really like this field. After that I went into frontend development. For one and a half years I was learning how to create beautiful and architecturally correct interface, after that I started backend development. Now I continue to learn how to create server side web applications. I also work with databases and create the correct environment for the applications.
 </p>
+ <br/>
 
 <a href="https://zviagin.com"><img src="https://raw.githubusercontent.com/dzvyagin/dzvyagin/master/assets/card.png" width="100%"></a>
+<br/>
 </details>
 
 <!-- My skills and tools -->
