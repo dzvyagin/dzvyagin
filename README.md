@@ -31,7 +31,7 @@ Initially I started to study mobile development (android), but I didn't really l
 <details> 
 <summary>🛠️ My favorite tools</summary>
 
-## 👨‍💻 Programming and markup languages
+### 👨‍💻 Programming and markup languages
 
 <p>
 <!--     <a href="https://github.com/search?q=user%3Adzvyagin+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a> -->
@@ -63,7 +63,7 @@ Initially I started to study mobile development (android), but I didn't really l
     <a href="https://github.com/search?q=user%3Adzvyagin+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-# 🧰 Frameworks and libraries
+### 🧰 Frameworks and libraries
 
 <!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 <!--     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
@@ -103,7 +103,7 @@ Initially I started to study mobile development (android), but I didn't really l
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
-#### 💻 Software and tools
+### 💻 Software and tools
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
