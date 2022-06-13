@@ -152,7 +152,9 @@ Initially I started to study mobile development (android), but I didn't really l
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dzvyagin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
  <a href="#" aligh="center">
+   
  ![Views](https://komarev.com/ghpvc/?username=dzvyagin&style=for-the-badge)
+  
   </a>
   
 </p>
