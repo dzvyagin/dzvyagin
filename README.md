@@ -89,7 +89,7 @@ Initially I started to study mobile development (android), but I didn't really l
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764ABC)
 ![Redux-Saga](https://img.shields.io/badge/-Redux_Saga-000?&logo=Redux-Saga&logoColor=999999)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
   
 ### 🗄️ Databases and cloud hosting
 
@@ -111,7 +111,6 @@ Initially I started to study mobile development (android), but I didn't really l
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
 ![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Babel](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=5C2D91)
