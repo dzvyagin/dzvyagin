@@ -91,7 +91,7 @@ Initially I started to study mobile development (android), but I didn't really l
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   
-## 🗄️ Databases and cloud hosting
+### 🗄️ Databases and cloud hosting
 
 <!--     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a> -->
 
@@ -103,7 +103,7 @@ Initially I started to study mobile development (android), but I didn't really l
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
-## 💻 Software and tools
+#### 💻 Software and tools
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
