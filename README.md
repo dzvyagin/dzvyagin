@@ -85,11 +85,15 @@ Initially I started to study mobile development (android), but I didn't really l
 ![JUnit](https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764ABC)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
 ![Redux-Saga](https://img.shields.io/badge/-Redux_Saga-000?&logo=Redux-Saga&logoColor=999999)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
   
 ### 🗄️ Databases and cloud hosting
 
@@ -112,7 +116,7 @@ Initially I started to study mobile development (android), but I didn't really l
 ![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=5C2D91)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -125,7 +129,7 @@ Initially I started to study mobile development (android), but I didn't really l
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 ![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=gulp)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=webpack)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
 </details>
 
