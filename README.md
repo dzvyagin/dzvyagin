@@ -63,7 +63,7 @@ Initially I started to study mobile development (android), but I didn't really l
     <a href="https://github.com/search?q=user%3Adzvyagin+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-## 🧰 Frameworks and libraries
+# 🧰 Frameworks and libraries
 
 <!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 <!--     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
