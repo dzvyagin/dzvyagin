@@ -77,63 +77,44 @@ Initially I started to study mobile development (android), but I didn't really l
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
  -->
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)
-![Jest](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)
-![JUnit](https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
-![Redux-Saga](https://img.shields.io/badge/-Redux_Saga-000?&logo=Redux-Saga&logoColor=999999)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
   
-### 🗄️ Databases and cloud hosting
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
+  
+### 🗄️ Databases and event streaming platforms
 
 <!--     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a> -->
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### 💻 Software and tools
-
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
-![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
+  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2671E5?&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 </details>
 
 <details>
