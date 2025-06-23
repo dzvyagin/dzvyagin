@@ -4,7 +4,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning React, Nest.js
 - 📫 &nbsp;How to reach me: <a href = "mailto: danila@zviagin.com">Send Email</a> or <a href="tel:79207882648">+7 (920) 788-26-48</a>
-- 👨‍💻 &nbsp;My websites: <a href="https://qualis.pro" target="_blank">qualis.pro</a> and <a href="https://zviagin.com" target="_blank">zviagin.com (in developing)</a>
 
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
